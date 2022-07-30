@@ -12,6 +12,3 @@ vec4 Setting_General_FillColor = vec4(0, 0, 0, 0.7);
 
 [Setting category="General" name="Marker color" color]
 vec4 Setting_General_MarkerColor = vec4(1, 0, 0, 1);
-
-[Setting category="General" name="Border radius" drag min=1 max=50]
-float Setting_General_BorderRadius = 2.0f;

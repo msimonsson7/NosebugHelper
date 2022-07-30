@@ -2,3 +2,8 @@
 name     = "Nosebug Helper"
 author   = "Evozer7"
 category = "Overlay"
+version  = "1.1"
+siteid   = 141
+
+[script]
+dependencies = [ "VehicleState" ]
